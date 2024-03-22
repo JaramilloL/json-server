@@ -2,7 +2,7 @@
 
 Este proyecto es una demostración de cómo utilizar json-server para crear un pequeño backend con una base de datos NoSQL. Json-server es una herramienta que nos permite simular un servidor RESTful utilizando un archivo JSON como base de datos.
 
-![Backend Development](https://cdn.pixabay.com/photo/2016/11/19/17/14/server-1840765_960_720.jpg)
+![Backend Development]([https://cdn.pixabay.com/photo/2016/11/19/17/14/server-1840765_960_720.jpg](https://www.bing.com/images/search?view=detailV2&ccid=HOCmWGXy&id=CB4AD17A653319C5F685F200676A599EC5388543&thid=OIP.HOCmWGXyfD4F04xFtZyw6gAAAA&mediaurl=https%3a%2f%2fwww.azulschool.net%2fwp-content%2fuploads%2f2020%2f05%2fBackend-Developer-1024x768.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1ce0a65865f27c3e05d38c45b59cb0ea%3frik%3dQ4U4xZ5ZamcA8g%26pid%3dImgRaw%26r%3d0&exph=355&expw=474&q=imagen+de+un+desaroollo+backen&simid=608052226060414690&FORM=IRPRST&ck=7EC4337D123E9324D7E4F7CC630C21F3&selectedIndex=3&itb=0))
 
 ## Requisitos
 
